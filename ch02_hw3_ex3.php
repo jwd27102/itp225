@@ -10,6 +10,7 @@ $pennies = 0;
 $change = 0;
 $continue = true;
 
+
 while($continue == true) {
 
     $amount = readline("Please enter your amount or \"exit\" to quit: $");
